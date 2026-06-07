@@ -114,7 +114,7 @@ Hospital-Emergency-Room-Analysis/
 │   └── 🧹 Cleaned_Data                  ← Power Query output (18 columns)
 │
 ├── Hospital_Emergency_Room_Data.csv     ← Original raw dataset
-├── Dashboard_Screenshot.png            ← Dashboard preview
+├── dashboard.png                       ← Dashboard preview
 └── README.md                           ← This file
 ```
 
